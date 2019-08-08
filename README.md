@@ -26,3 +26,11 @@ Not implemented and not planned:
 Developer notes:
 See ./server for webserver stuff (php).
 Built with Flutter (Dart) for Android target: flutter build apk --split-per-abi
+
+Sample pictures (app):
+
+<img src="https://i.imgur.com/BGqqf8O.jpg" width="300">
+
+<img src="https://i.imgur.com/OqwGjTU.jpg" width="300">
+
+<img src="https://i.imgur.com/PZt7u20.jpg" width="300">
