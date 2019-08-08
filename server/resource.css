@@ -1,0 +1,43 @@
+body {
+        text-align: left;
+        font-family: Verdana, Helvetica, sans-serif;
+        font-size: 12pt;
+        background-color: #DDDDDD;
+}
+fieldset {
+        border: 1px solid grey;
+        border-radius: 5px;
+}
+.ln {
+	padding: 5px;
+}
+hr {
+	opacity: 0.25;
+	margin: 20px 0px;
+}
+input {
+	font-size: large;
+}
+#save {
+	float: left;
+}
+#update {
+	float: left;
+}
+.ctrl-top {
+	padding: 2px;
+}
+#content {
+}
+#container-ctrl {
+	padding-bottom: 25px;
+}
+.delete {
+	padding-left: 10px;
+}
+.delete a {
+	text-decoration: none;
+	color: orange;
+	opacity: 0.75;
+}
+
